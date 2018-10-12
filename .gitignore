@@ -1,4 +1,4 @@
-data/
+
 results/
 *.pdf
 .bash_profile
@@ -6,3 +6,5 @@ creatures/
 molecules/
 north-pacific-gyre/
 writing/
+.Rproj.user
+!data/feline-data.csv
