@@ -16,4 +16,4 @@ I do not accept any contributions.
 # How to cite
 
 # Can be tried by clicking on 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/CarstenKost/uppsala-workshop-CK/tree/master?urlpath=rstudio)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/CarstenKost/uppsala-workshop-CK/master?urlpath=rstudio)
